@@ -1,0 +1,5 @@
+Credentials cache: API:54668AF2-6205-4392-B967-5CA05702F8C0
+        Principal: yocak@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  7 15:42:56 2022  Feb  8 01:42:48 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
